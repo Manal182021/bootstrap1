@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.manal{
+   height: 15px !important;
+   width: 15px !important;
+   border-radius: 50%;
+}
+#carouselExampleCaptions{
+   margin-bottom: 50px;
+}
+.mohamed{
+   top:42% !important;
+}
